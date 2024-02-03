@@ -18,7 +18,7 @@ name = "appgroup"
 location = "Central India"
 }
 
-resource "azurerm_network_interface" "name" {
+resource "" "name" {
   
 }
 
